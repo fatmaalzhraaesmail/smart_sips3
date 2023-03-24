@@ -1,0 +1,1 @@
+web: gunicorn smart_sips.wsgi --log-file -
